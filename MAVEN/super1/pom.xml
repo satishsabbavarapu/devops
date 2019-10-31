@@ -46,7 +46,7 @@
     <jersey-version>1.9</jersey-version>
     <jetty-version>7.2.1.v20101111</jetty-version>
     <logback-version>0.9.26</logback-version>
-    <scala-version>2.9.1</scala-version>
+    <scala-version>2.13.1</scala-version>
     <scalate-version>1.6.1</scalate-version>
     <servlet-api-version>2.5</servlet-api-version>
 
